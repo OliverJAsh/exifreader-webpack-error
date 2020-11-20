@@ -1,0 +1,17 @@
+{
+  "exifreader": {
+    "include": {
+      "jpeg": true,
+      "exif": [
+        "Orientation",
+        "GPSLatitude",
+        "GPSLatitudeRef",
+        "GPSLongitude",
+        "GPSLongitudeRef"
+      ]
+    }
+  },
+  "dependencies": {
+    "exifreader": "3.12.3"
+  }
+}
