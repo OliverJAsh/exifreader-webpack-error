@@ -12,6 +12,6 @@
     }
   },
   "dependencies": {
-    "exifreader": "3.12.3"
+    "exifreader": "^3.12.4"
   }
 }
